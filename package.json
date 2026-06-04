@@ -1,0 +1,12 @@
+{
+  "name": "offeriq-chat-api",
+  "version": "1.0.0",
+  "description": "OfferIQ AI Team Chat Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
