@@ -1,9 +1,3 @@
-play server.js content for copy paste
-bash
-
-cat /mnt/user-data/outputs/server.js
-Output
-
 const https = require('https');
 const http = require('http');
 
